@@ -1,0 +1,19 @@
+--------------------Invoice--------------------------
+
+
+item no: 1 item type: letter destination: nepal weight: 0.008 kg unit price: 2.3
+
+
+
+
+Total Cost: $ 2.3
+----------------End Invoice-----------
+
+
+
+------------Purchased Stamps-----------------------
+letter
+Destination: nepal               Weight: 0.008 kg
+-----------------------------------------------
+
+

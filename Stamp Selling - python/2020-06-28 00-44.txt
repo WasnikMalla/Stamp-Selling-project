@@ -1,0 +1,19 @@
+--------------------Invoice--------------------------
+
+
+item no: 1 item type: parcel destination: United States weight: 3.0 kg unit price: 42.79
+
+
+
+
+Total Cost: $ 42.79
+----------------End Invoice-----------
+
+
+
+------------Purchased Stamps-----------------------
+parcel
+Destination: United States               Weight: 3.0 kg
+-----------------------------------------------
+
+

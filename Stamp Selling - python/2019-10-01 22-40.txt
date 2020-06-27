@@ -1,0 +1,27 @@
+--------------------Invoice--------------------------
+
+
+item no: 1 item type: letter destination: nepal weight: 0.5 kg unit price: 12.0
+
+item no: 2 item type: parcel destination: belgium weight: 20.0 kg unit price: 196.15
+
+
+
+
+Total Cost: $ 208.15
+----------------End Invoice-----------
+
+
+
+------------Purchased Stamps-----------------------
+letter
+Destination: nepal               Weight: 0.5 kg
+-----------------------------------------------
+
+
+------------Purchased Stamps-----------------------
+parcel
+Destination: belgium               Weight: 20.0 kg
+-----------------------------------------------
+
+
